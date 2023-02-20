@@ -1,2 +1,1 @@
-# JAVA22-WEBDEVJAVA-SLUTPROJEKT
-Slutprojekt
+# Get the api with XML to show city and country weather from user input
